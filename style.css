@@ -5,6 +5,7 @@
 
 html,
 body,
+h1,
 h2 {
   margin: 0;
   padding: 0;
@@ -35,6 +36,7 @@ p {
 
 h1 {
   padding-left: 16px;
+  margin-top: 64px;
 }
 
 .card {
